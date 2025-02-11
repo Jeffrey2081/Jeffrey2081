@@ -13,8 +13,8 @@ I run **Arch BTW**, and I love creating Arch-based projects, custom setups, and 
 ![Arch Linux](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/128px-Arch_Linux_%22Crystal%22_icon.svg.png)  
 
 ![BSPWM Setup Screenshot](https://github.com/Jeffrey2081/arch-bspwm/blob/main/screenshots/bspwm-setup.png?raw=true)
-
-Currently Trying to daily **hyprland and wayland** in arch btw. My [Hyprland Config](https://github.com/Jeffrey2081/hyperland-jeff).
+## 🔧🛠️ Work in progress
+Currently trying to daily **hyprland and wayland** in arch btw. My [Hyprland Config](https://github.com/Jeffrey2081/hyperland-jeff).
 ## 🔗 Connect with Me  
 📷 [Instagram (Arch Linux Journey)](https://www.instagram.com/jeffrey__2081/)  
 🖥️ [My Arch BSPWM Config](https://github.com/Jeffrey2081/arch-bspwm)  
