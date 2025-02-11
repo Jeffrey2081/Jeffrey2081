@@ -7,13 +7,14 @@ I run **Arch BTW**, and I love creating Arch-based projects, custom setups, and 
 ## 🔥 What I Do  
 - 🏗️ **Custom Arch Linux Builds** – Tweaking and refining **BSPWM** and more.  
 - 📀 **Arch-Based Installer ISO** – Automating installation with **my own configurations**.  
-- 🤖 **AI & Automation** – Running **OLAMA AI** models and training **Solar AI RAG** models.  
+- 🤖 **AI & Automation** – Running **Ollama AI** models and training **Solar AI RAG** models.  
 
 ## 🖥️ My Setup  
 ![Arch Linux](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/128px-Arch_Linux_%22Crystal%22_icon.svg.png)  
 
 ![BSPWM Setup Screenshot](https://github.com/Jeffrey2081/arch-bspwm/blob/main/screenshots/bspwm-setup.png?raw=true)
 
+Currently Trying to daily **hyprland and wayland**. My [Hyprland Config)](https://github.com/Jeffrey2081/hyperland-jeff)
 ## 🔗 Connect with Me  
 📷 [Instagram (Arch Linux Journey)](https://www.instagram.com/jeffrey__2081/)  
 🖥️ [My Arch BSPWM Config](https://github.com/Jeffrey2081/arch-bspwm)  
