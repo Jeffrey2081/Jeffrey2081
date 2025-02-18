@@ -5,7 +5,7 @@
 I run **Arch BTW**, and I love creating Arch-based projects, custom setups, and experimenting with **minimal, powerful, and futuristic** Linux configurations. My repositories focus on **Arch Linux**, **BSPWM**, AI integrations, and other cool projects.  
 
 ## 🔥 What I Do  
-- 🏗️ **Custom Arch Linux Builds** – Tweaking and refining **BSPWM** and more.  
+- 🏗️ **Custom Arch Linux Builds** – Tweaking and refining **Window Managers** and more.  
 - 📀 **Arch-Based Installer ISO** – Automating installation with **my own configurations**.  
 - 🤖 **AI & Automation** – Running **Ollama AI** models and training **Solar AI RAG** models.  
 
